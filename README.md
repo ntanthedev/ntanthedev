@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Back-end**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ntanthedev?tab=repositories](https://github.com/ntanthedev?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ntanthedev?tab=repositories)
 
 - 💬 Ask me about **Competitive Programing**
 
